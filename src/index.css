@@ -1,0 +1,29 @@
+:root {
+  --dark: #171717;
+  --primary: #FFBCCC;
+  --secondary: #BFBCBD;
+  --grey-border: #D3D3D3;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  font-size: 16px;
+  color: var(--dark);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100%;
+  padding: 16px;
+}

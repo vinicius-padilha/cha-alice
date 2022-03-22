@@ -1,0 +1,50 @@
+.home p {
+  margin: 32px 0 16px;
+  width: 100%;
+  max-width: 288px;
+}
+
+.select-field {
+  width: 100%;
+  max-width: 288px;
+}
+
+button {
+  width: 100%;
+  max-width: 288px;
+  height: 48px;
+
+  margin: 64px 0 0;
+
+  border: 0;
+  border-radius: 8px;
+
+  background-color: var(--primary);
+  color: white;
+
+  font-size: 16px;
+  font-weight: 700;
+
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: var(--grey-border);
+  cursor: not-allowed;
+}
+
+.home ul {
+  padding: 0;
+  list-style: none;
+  width: 100%;
+  max-width: 288px;
+}
+
+.home ul li {
+  margin: 16px 0;
+  padding: 6px;
+}
+
+.home ul li:nth-of-type(odd) {
+  background-color: var(--primary);
+}

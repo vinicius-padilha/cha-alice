@@ -1,0 +1,32 @@
+.suggestion h2 {
+  margin: 32px 0 16px;
+
+  font-size: 22px;
+  text-align: center;
+}
+
+.suggestion h3 {
+  margin-bottom: 16px;
+
+  text-align: center;
+}
+
+.suggestion p {
+  text-align: center;
+  margin: 5px 0;
+}
+
+.suggestion .suggestion-image-holder {
+  width: 150px;
+}
+
+.suggestion .suggestion-image-holder img {
+  width: 100%;
+}
+
+.suggestion span {
+  font-size: 52px;
+  line-height: 64px;
+  font-weight: 300;
+  color: var(--grey-border);
+}
