@@ -1,17 +1,17 @@
 .home p {
   margin: 32px 0 16px;
   width: 100%;
-  max-width: 288px;
+  max-width: 480px;
 }
 
 .select-field {
   width: 100%;
-  max-width: 288px;
+  max-width: 480px;
 }
 
 button {
   width: 100%;
-  max-width: 288px;
+  max-width: 480px;
   height: 48px;
 
   margin: 64px 0 0;
@@ -37,7 +37,7 @@ button:disabled {
   padding: 0;
   list-style: none;
   width: 100%;
-  max-width: 288px;
+  max-width: 480px;
 }
 
 .home ul li {
