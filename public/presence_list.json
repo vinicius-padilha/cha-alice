@@ -267,8 +267,8 @@
       ]
     },
     {
-      "uuid": "marcieli_siqueira",
-      "name": "Marcieli Siqueira",
+      "uuid": "araci_siqueira",
+      "name": "Araci Siqueira",
       "suggestion": [
         {
           "title": "Protetor de Colchão para Berço",
@@ -357,7 +357,7 @@
       "name": "Tuany Cristine",
       "suggestion": [
         {
-          "title": "Tip Top de Plush",
+          "title": "Tip Top de Plush RN",
           "src": "https://t-static.dafiti.com.br/IXspKYJqkZj9UjjX06wb0gV_skM=/fit-in/430x623/static.dafiti.com.br/p/curioso-macac%c3%a3o-longo-de-beb%c3%aa-de-plush-bordado-ursinho----rosa-6817-92516201-1-zoom.jpg"
         },
         {
@@ -371,7 +371,7 @@
       "name": "Jessica Siqueira",
       "suggestion": [
         {
-          "title": "Tip Top de Plush",
+          "title": "Tip Top de Plush P",
           "src": "https://t-static.dafiti.com.br/IXspKYJqkZj9UjjX06wb0gV_skM=/fit-in/430x623/static.dafiti.com.br/p/curioso-macac%c3%a3o-longo-de-beb%c3%aa-de-plush-bordado-ursinho----rosa-6817-92516201-1-zoom.jpg"
         },
         {
@@ -385,7 +385,7 @@
       "name": "Jaqueline, Eduarda, Julia",
       "suggestion": [
         {
-          "title": "Tip Top de Plush",
+          "title": "Tip Top de Plush M",
           "src": "https://t-static.dafiti.com.br/IXspKYJqkZj9UjjX06wb0gV_skM=/fit-in/430x623/static.dafiti.com.br/p/curioso-macac%c3%a3o-longo-de-beb%c3%aa-de-plush-bordado-ursinho----rosa-6817-92516201-1-zoom.jpg"
         },
         {
@@ -599,8 +599,8 @@
           "src": "https://images-americanas.b2w.io/produtos/4053161561/imagens/toalha-umedecida-snow-baby-recem-nascido-140-unidades/4053161625_1_xlarge.jpg"
         },
         {
-          "title": "Body de manga curta P",
-          "src": "https://www.lojaeraumavez.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/o/body-manga-curta-em-suedine-para-bebe-ate-24-meses-caramelo-18044-1.jpg"
+          "title": "Mijão RN",
+          "src": "https://www.lojaeraumavez.com.br/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/a/calca-em-suedine-para-bebe-com-pe-reversivel-marrom-claro-14838-2_1.jpg"
         }
       ]
     },
@@ -613,8 +613,8 @@
           "src": "https://images-americanas.b2w.io/produtos/4053161561/imagens/toalha-umedecida-snow-baby-recem-nascido-140-unidades/4053161625_1_xlarge.jpg"
         },
         {
-          "title": "Body de manga curta M",
-          "src": "https://www.lojaeraumavez.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/o/body-manga-curta-em-suedine-para-bebe-ate-24-meses-caramelo-18044-1.jpg"
+          "title": "Mijão RN",
+          "src": "https://www.lojaeraumavez.com.br/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/c/a/calca-em-suedine-para-bebe-com-pe-reversivel-marrom-claro-14838-2_1.jpg"
         }
       ]
     },
@@ -632,5 +632,33 @@
         }
       ]
     },
+    {
+      "uuid": "marcieli_siqueira",
+      "name": "Marcieli Siqueira",
+      "suggestion": [
+        {
+          "title": "Pijama RN",
+          "src": "https://cookiedreams.vteximg.com.br/arquivos/ids/157146-829-1000/Pijama_Bebe_Algodao_Pima_Love_Cherry_Cookie_Dreams.jpg?v=637479013725830000"
+        },
+        {
+          "title": "Fralda M Huggies Supreme Care (Pacote vermelho)",
+          "src": "https://a-static.mlcdn.com.br/1500x1500/fralda-huggies-supreme-care-rn-c-34-huggies-turma-da-monica/ruthfraldas/90781/9d0e2b3cd3301a6f966e0a5ddcef531d.jpg"
+        }
+      ]
+    },
+    {
+      "uuid": "daniela_dalenogare",
+      "name": "Daniela Dalenogare e Pedro",
+      "suggestion": [
+        {
+          "title": "Tip Top de Soft RN",
+          "src": "https://t-static.dafiti.com.br/IXspKYJqkZj9UjjX06wb0gV_skM=/fit-in/430x623/static.dafiti.com.br/p/curioso-macac%c3%a3o-longo-de-beb%c3%aa-de-plush-bordado-ursinho----rosa-6817-92516201-1-zoom.jpg"
+        },
+        {
+          "title": "Lenço Umedecido Para Recém Nascido",
+          "src": "https://images-americanas.b2w.io/produtos/4053161561/imagens/toalha-umedecida-snow-baby-recem-nascido-140-unidades/4053161625_1_xlarge.jpg"
+        }
+      ]
+    }
   ]
 }
