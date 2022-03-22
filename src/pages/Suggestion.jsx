@@ -3,13 +3,13 @@ import '../styles/Suggestion.css'
 
 export function Suggestion() {
   const location = useLocation();
-  const { uuid, name, suggestion } = location.state;
+  const { uuid, name, suggestion } = location?.state || {uuid: '', name: '', suggestion: []};
 
   return (
     <div className="suggestion container">
       <img src="/logo-horizontal.png" alt="Chá da Alice" />
       <h2>Presença confirmada! ✔️ 👼🏻</h2>
-      <h3>Sua sugestão de presente é:</h3>
+      {uuid && <h3>Sua sugestão de presente é:</h3>}
 
       {
         suggestion.map((item, index) => (

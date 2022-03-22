@@ -1,7 +1,7 @@
 {
   "presence_list": [
     {
-      "uuid": "glaci_padilha",
+      "uuid": "d1707e39-15ab-46d5-9ead-d61c2bf00f8e",
       "name": "Glaci Padilha",
       "suggestion": [
         {
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "uuid": "lisiane_siqueira",
+      "uuid": "497469e5-c520-46c6-947a-6a575430b50a",
       "name": "Lisiane Siqueira, Larissa e Laisa",
       "suggestion": [
         {
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "uuid": "adelaide_siqueira",
+      "uuid": "c71c364d-91ce-4401-9108-25df96949a98",
       "name": "Adelaide Siqueira",
       "suggestion": [
         {
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "uuid": "jauana_amaral",
+      "uuid": "41ff29f3-6ac8-45c9-907a-66194e9e0dc6",
       "name": "Jauana do Amaral",
       "suggestion": [
         {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "uuid": "gabrielle_siqueira",
+      "uuid": "37867eb0-266d-4334-ba27-657ff6b636e9",
       "name": "Gabrielle Siqueira",
       "suggestion": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "uuid": "sandra_c_siqueira",
+      "uuid": "7982a3f4-09db-4757-b5ef-51ebffe0b1be",
       "name": "Sandra Correa Siqueira e Camilly",
       "suggestion": [
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "uuid": "sidoni_amaral",
+      "uuid": "0b46d203-a59f-422c-970a-28cccfa33e36",
       "name": "Sidoni Amaral",
       "suggestion": [
         {
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "uuid": "carla_pliski",
+      "uuid": "1d585df6-d87d-4f1a-ab19-333e21dfd87d",
       "name": "Carla Pliski",
       "suggestion": [
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "uuid": "medianeira_dalenogare",
+      "uuid": "1e29bb03-e0dc-4ae3-a618-01dbf07b47cd",
       "name": "Medianeira Dalenogare",
       "suggestion": [
         {
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "uuid": "lidiane_amaral",
+      "uuid": "7090630c-48c3-49b3-8b80-7fd8b1808006",
       "name": "Lidiane Amaral",
       "suggestion": [
         {
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "uuid": "joana_moraes",
+      "uuid": "29f7a1a1-299e-4a04-b558-6486f1c3a34b",
       "name": "Joana Moraes",
       "suggestion": [
         {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "uuid": "clair_siqueira",
+      "uuid": "8648d41e-a209-4b29-944a-3a1b5dffe6e1",
       "name": "Clair Siqueira e Emily",
       "suggestion": [
         {
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "uuid": "helena_bester",
+      "uuid": "db040e3c-b49d-4c1c-a427-f14b152e4194",
       "name": "Helena Bester",
       "suggestion": [
         {
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "uuid": "loreni_delam",
+      "uuid": "e8c1fd70-7934-4bb3-a507-55bc550aadeb",
       "name": "Loreni Delam",
       "suggestion": [
         {
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "uuid": "paloma_delam",
+      "uuid": "24697761-720e-4f7d-9b08-1ecfb34c4eb5",
       "name": "Paloma Delam",
       "suggestion": [
         {
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "uuid": "ana_julia",
+      "uuid": "682f400d-0aed-461a-9468-99aead70e770",
       "name": "Ana Julia Bester",
       "suggestion": [
         {
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "uuid": "thaisa_soares",
+      "uuid": "83beda9b-c649-421c-9573-06520fc9540e",
       "name": "Thaísa Soares",
       "suggestion": [
         {
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "uuid": "manuela_borges",
+      "uuid": "8b80e39f-966e-44dd-be8b-408a73ad5de5",
       "name": "Manuela Borges",
       "suggestion": [
         {
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "uuid": "marlene_ciocheta",
+      "uuid": "11effa9e-2db3-4a43-9661-e60a26df2672",
       "name": "Marlene Ciocheta",
       "suggestion": [
         {
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "uuid": "araci_siqueira",
+      "uuid": "2a34f3a9-550b-437a-9e3c-a22e2b7d4a62",
       "name": "Araci Siqueira",
       "suggestion": [
         {
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "uuid": "sandra_silva",
+      "uuid": "68eeed93-dec9-48bc-9c78-907d95c1ffb1",
       "name": "Sandra Silva",
       "suggestion": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "uuid": "eloi_santos",
+      "uuid": "16f7d3d3-0e8c-4fb3-ac12-123a4ae02ce9",
       "name": "Eloi Santos",
       "suggestion": [
         {
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "uuid": "eduarda_siqueira",
+      "uuid": "9c445b40-861e-46ff-b8b5-2977652d63bd",
       "name": "Eduarda Siqueira",
       "suggestion": [
         {
@@ -335,7 +335,7 @@
       ]
     },
     {
-      "uuid": "oracilda_siqueira",
+      "uuid": "95082b0b-348f-4154-87cc-d6d17a4f5efe",
       "name": "Oracilda Siqueira",
       "suggestion": [
         {
@@ -353,7 +353,7 @@
       ]
     },
     {
-      "uuid": "tuany_cristine",
+      "uuid": "bef9c698-974b-4949-a810-950234e50065",
       "name": "Tuany Cristine",
       "suggestion": [
         {
@@ -367,7 +367,7 @@
       ]
     },
     {
-      "uuid": "jessica_siqueira",
+      "uuid": "53a902d6-5f73-4666-853d-5c55bc515e8a",
       "name": "Jessica Siqueira",
       "suggestion": [
         {
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "uuid": "jaqueline_moraes",
+      "uuid": "d0de2bf2-8ebb-4c95-94d7-ba18273b0b85",
       "name": "Jaqueline, Eduarda, Julia",
       "suggestion": [
         {
@@ -395,7 +395,7 @@
       ]
     },
     {
-      "uuid": "elisiane_quevedo",
+      "uuid": "604985b6-c5d9-44bb-a6cf-97834d250102",
       "name": "Elisiane Quevedo",
       "suggestion": [
         {
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "uuid": "taila_quevedo",
+      "uuid": "7b447101-c3ec-424f-b634-221de5c0a60c",
       "name": "Taila Quevedo",
       "suggestion": [
         {
@@ -423,7 +423,7 @@
       ]
     },
     {
-      "uuid": "marlise_kayser",
+      "uuid": "1b64a23c-5058-4586-aca1-4b4ca4a4d2fb",
       "name": "Marlise Kayser",
       "suggestion": [
         {
@@ -437,7 +437,7 @@
       ]
     },
     {
-      "uuid": "amanda_siqueira",
+      "uuid": "da78f982-95fc-4705-9b62-2beee5dbb46b",
       "name": "Amanda Siqueira",
       "suggestion": [
         {
@@ -451,7 +451,7 @@
       ]
     },
     {
-      "uuid": "fernanda_freitas",
+      "uuid": "9221d644-c878-45ea-8c86-ebbad8768c21",
       "name": "Fernanda Freitas",
       "suggestion": [
         {
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "uuid": "denise_klamt",
+      "uuid": "675dcd90-9c6e-43e7-9cef-221bb83f68d0",
       "name": "Denise e Isabella",
       "suggestion": [
         {
@@ -479,7 +479,7 @@
       ]
     },
     {
-      "uuid": "catia_denque",
+      "uuid": "de53401a-35d3-417d-9274-abf8f263b294",
       "name": "Cátia e Rafaela",
       "suggestion": [
         {
@@ -493,7 +493,7 @@
       ]
     },
     {
-      "uuid": "teresa_siqueira",
+      "uuid": "6c56d2bf-845e-4ae9-8164-057f1ca08c4a",
       "name": "Teresa e Raissa",
       "suggestion": [
         {
@@ -507,7 +507,7 @@
       ]
     },
     {
-      "uuid": "cleusa_moura",
+      "uuid": "d33d4679-132d-4886-91c0-f074d7bbabc9",
       "name": "Cleusa Moura",
       "suggestion": [
         {
@@ -521,7 +521,7 @@
       ]
     },
     {
-      "uuid": "dona_clo",
+      "uuid": "29ff7896-7b10-4375-9c43-97c1ea46ce14",
       "name": "Dona Clô",
       "suggestion": [
         {
@@ -535,7 +535,7 @@
       ]
     },
     {
-      "uuid": "solange_siqueira",
+      "uuid": "d53653d8-651a-4010-be6a-3a33e4241832",
       "name": "Solange, Maria e Ana Vitoria",
       "suggestion": [
         {
@@ -549,7 +549,7 @@
       ]
     },
     {
-      "uuid": "emanuelle_santos",
+      "uuid": "17046c3d-c316-4596-a503-a64a8667fb20",
       "name": "Emanuelle Santos",
       "suggestion": [
         {
@@ -563,7 +563,7 @@
       ]
     },
     {
-      "uuid": "luana_mazera",
+      "uuid": "146bb2d0-1699-4af7-a873-12c588289356",
       "name": "Luana Mazera",
       "suggestion": [
         {
@@ -577,7 +577,7 @@
       ]
     },
     {
-      "uuid": "rejane_ciocheta",
+      "uuid": "c08b5099-e1f6-4084-8f94-65d6038ea084",
       "name": "Rejane Ciocheta",
       "suggestion": [
         {
@@ -591,7 +591,7 @@
       ]
     },
     {
-      "uuid": "marcia_pereira",
+      "uuid": "ea4af2ed-92a6-4295-a505-dd63e251a333",
       "name": "Marcia Pereira",
       "suggestion": [
         {
@@ -605,7 +605,7 @@
       ]
     },
     {
-      "uuid": "lauren_santos",
+      "uuid": "c3a75e4f-4e60-4ecb-81bc-3496dcf35730",
       "name": "Lauren Santos",
       "suggestion": [
         {
@@ -619,7 +619,7 @@
       ]
     },
     {
-      "uuid": "taila_spier",
+      "uuid": "8b5a09e8-69c4-4d0c-90ec-88fb30adb5dd",
       "name": "Taila Spier",
       "suggestion": [
         {
@@ -633,7 +633,7 @@
       ]
     },
     {
-      "uuid": "marcieli_siqueira",
+      "uuid": "9e58f6a7-643b-4137-8620-606d267f21ce",
       "name": "Marcieli Siqueira",
       "suggestion": [
         {
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "uuid": "daniela_dalenogare",
+      "uuid": "2ee0f7fe-a2b5-4887-9591-e9082588396c",
       "name": "Daniela Dalenogare e Pedro",
       "suggestion": [
         {

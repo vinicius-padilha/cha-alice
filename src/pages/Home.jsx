@@ -1,31 +1,35 @@
 import "../styles/Home.css"
+import Select from 'react-select'
 import List from '../../public/presence_list.json'
-import { useNavigate } from "react-router";
+import { useEffect, useState } from "react";
+import { useNavigate, useParams } from "react-router";
 
 const presenceList = List.presence_list;
 
 export function Home() {
   const navigate = useNavigate();
-  
-  const handleConfirm = (item) => {
-    navigate("/suggestion", { state: item });
+  const params = useParams();
+
+  const personList = presenceList.filter(item => item.uuid === params.uuid);
+  const person = personList[0];
+
+  const handleConfirm = () => {
+    navigate("/suggestion", { state: person });
   }
 
   return (
     <div className="home container">
       <img src="/logo-vertical.png" alt="Chá da Alice" />
 
-      <p>Selecione seu nome para <br />
-        confirmar presença e receber a  <br />
-        sugestão de presente:</p>
+      <h2>Olá, {person?.name ?? 'Convidado'}</h2>
 
-      <ul>
-        {
-          presenceList.map(item => (
-            <li key={item.uuid} name={item.uuid} onClick={() => handleConfirm(item)}>{item.name}</li>
-          ))
-        }
-      </ul>
+      {/* <p>Sua presença já foi confirmada! ✔️ 👼🏻</p> */}
+
+      <p>Confirme presença clicando no<br /> botão abaixo e receba a sugestão<br /> de presente.</p>
+
+      {/* <button onClick={handleConfirm}>ver sugestão de presente</button> */}
+
+      <button onClick={handleConfirm}>confirmar presença</button>
     </div>
   )
 }
