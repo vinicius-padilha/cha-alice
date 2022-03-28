@@ -1,0 +1,14 @@
+.list .presence-list {
+  padding: 0;
+  list-style: none;
+}
+
+.list .presence-list .item {
+  display: flex;
+  align-items: center;
+  padding: 15px 10px;
+}
+
+.list .presence-list .item:nth-child(odd) {
+  background-color: var(--grey-border);
+}
