@@ -675,6 +675,34 @@
           "src": "https://images-americanas.b2w.io/produtos/4053161561/imagens/toalha-umedecida-snow-baby-recem-nascido-140-unidades/4053161625_1_xlarge.jpg"
         }
       ]
+    },
+    {
+      "uuid": "9cb3a874-1db1-45b8-ba2c-f01c5d708491",
+      "name": "Tauana dos Santos",
+      "suggestion": [
+        {
+          "title": "Fralda P Huggies Supreme Care (Pacote vermelho)",
+          "src": "https://a-static.mlcdn.com.br/618x463/fraldas-huggies-supreme-care-tam-p-0-a-6kg-48-unidades/magazineluiza/218732500/f782d27146d990025af3c113f5aba1cf.jpg"
+        },
+        {
+          "title": "Kit Meia RN",
+          "src": "https://t-static.dafiti.com.br/c082FxDggG_mrFO6GL8hlJzfjo4=/fit-in/430x623/static.dafiti.com.br/p/lupo-kit-com-3-meias-baby-lupo-kt2000-branco%2frosa-0934-7764-17261901-1-zoom.jpg"
+        }
+      ]
+    },
+    {
+      "uuid": "35fb8cef-2f40-4b36-8672-2adfd06547d9",
+      "name": "Santina Siqueira",
+      "suggestion": [
+        {
+          "title": "Fralda P Huggies Supreme Care (Pacote vermelho)",
+          "src": "https://a-static.mlcdn.com.br/618x463/fraldas-huggies-supreme-care-tam-p-0-a-6kg-48-unidades/magazineluiza/218732500/f782d27146d990025af3c113f5aba1cf.jpg"
+        },
+        {
+          "title": "Pomada para Assaduras",
+          "src": "https://m.media-amazon.com/images/I/71U-k4RjUIS._AC_SX425_.jpg"
+        }
+      ]
     }
   ]
 }
